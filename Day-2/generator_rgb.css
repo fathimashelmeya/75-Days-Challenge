@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+
+}
+button{
+    margin-bottom: 20px;
+}
+div{
+    height: 200px;
+    width: 500px;
+    /* background-color: pink; */
+    border: 1px solid black;
+    margin: auto;
+}
