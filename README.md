@@ -1,5 +1,5 @@
-# 🚀 75 Days Challenge
-I am starting a 75 Days Challenge to improve my consistency and technical skills.
+# 🚀 30 Days Challenge
+I am starting a 30 Days Challenge to improve my consistency and technical skills.
 
 ## 🎯 Goal
 To learn something new every day and apply it by building a mini project.
