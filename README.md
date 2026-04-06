@@ -29,5 +29,7 @@ This challenge is not about perfection, but about:
 * Building a strong portfolio
 
 ---
+Let’s see how much I can grow in the next 30 days 💻✨
 
-Let’s see how much I can grow in the next 75 days 💻✨
+
+
